@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+    border:0;
+    background-color: violet;
+}
+.heading{
+    font-size: 20px;
+    border-radius: 10px;
+    letter-spacing: 10px;
+  }
+  label{
+    font-size:17px;
+    color: black;
+    font-weight: 100;
+    padding: 10px;
+    border-radius: 20px;
+    
+  }
+  #p12{
+      font-size: 15px;
+  }
+  #camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
